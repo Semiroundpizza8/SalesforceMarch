@@ -1,3 +1,3 @@
 # Hello World!
 
-Welcome to Github!
+Welcome to our Github repo!
