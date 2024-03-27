@@ -1,1 +1,4 @@
 
+Things in NewFile.txt
+
+Hello world
