@@ -1,7 +1,4 @@
 Hello!
 
-BUG INTRODUCED!
 
 !!!!!!
-
-BUG INTRODUCED!
